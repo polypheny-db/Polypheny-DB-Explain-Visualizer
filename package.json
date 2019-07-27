@@ -12,7 +12,7 @@
   "author": "DBIS, University of Basel",
   "license": "MIT",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry":"https://dbis-nexus.dmi.unibas.ch/repository/npm-snapshots/"
   },
   "dependencies": {
     "@angular/animations": "^6.1.0",
